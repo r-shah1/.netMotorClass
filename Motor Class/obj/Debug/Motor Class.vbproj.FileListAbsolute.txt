@@ -1,0 +1,13 @@
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\bin\Debug\Motor Class.exe.config
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\bin\Debug\Motor Class.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\bin\Debug\Motor Class.pdb
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\bin\Debug\Motor Class.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.vbprojAssemblyReference.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\WindowsApp2.AddForm.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\WindowsApp2.MainForm.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.vbproj.GenerateResource.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.vbproj.CoreCompileInputs.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW9 In_Progress\Motor Class\Motor Class\obj\Debug\Motor Class.pdb
